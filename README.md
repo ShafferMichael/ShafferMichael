@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I play ukulele, dj at clubs and parties, and have a startup.**
 
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

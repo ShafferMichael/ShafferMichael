@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 <h3 align="center">A passionate person</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 - 🔭 I’m currently working on **a transportation dispatching software for a startup.**
 

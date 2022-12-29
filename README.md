@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 
-<h3 align="center">Artificial Intelligence, Fintech, Code</h3>
+<h3 align="center">I like AI and Music</h3>
 <p align="center">
     <img align="center" alt="homepage" width="" src="Icons/homepage.gif">
 </p>
@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 
-- 📄 Know about my experiences [resume.link](resume.link)
+- 💯 Know about my experiences [resume.link](resume.link)
 
-- ⚡ Fun facts: **I play ukulele, dj, at clubs and parties, and have a startup.**
+- ⚡ Fun facts: **I play ukulele, dj, volunteer, and always looking to collobarate on a project...**
 
 <img align="center" alt="textbanner" width="" src="Icons/coolinternet.gif">
 

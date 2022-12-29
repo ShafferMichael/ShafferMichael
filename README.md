@@ -3,7 +3,8 @@
 
 <h3 align="center">A passionate person</h3>
 
-<img align="center" size="80%" alt="homepage" width="100%" src="Icons/homepage.gif">
+<img align="center" alt="homepage" style="width:75%" src="Icons/homepage.gif">
+
 
 <img align="center" alt="textbanner" width="100%" src="Icons/coolinternet.gif">
 

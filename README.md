@@ -44,8 +44,8 @@
 </div>  
 
 <h3 align="left">Languages and Tools:</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaffermichael&show_icons=true&locale=en" alt="shaffermichael" /></p>
 
 
 

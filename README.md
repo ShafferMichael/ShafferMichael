@@ -1,11 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
+<h1 align="center" style="font-family: 'Comic Sans MS', sans-serif; color: neongreen;">Hi 👋, I'm Michael Shaffer</h1>
 
-<h3 align="center">A passionate person</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: hotpink;">A passionate person</h3>
+
+<img align="center" alt="Coding" width="400" src="Icons/homepage.gif">
 
 <img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
 
-<img align="right" alt="Coding" width="400" src="Icons/homepage.gif">
+<style>
+  body {
+    background-image: url('Icons/space.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+  }
+</style>
+
+
+
 
 - 🔭 I’m currently working on **a transportation dispatching software for a startup.**
 

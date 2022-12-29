@@ -7,7 +7,8 @@
 
 <img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
 
-<img align="right" alt="spiderman" src="Icons/spiderman.gif">
+<img align="right" alt="spiderman" style="transform: rotate(90deg) scaleY(-1)" src="Icons/spiderman.gif">
+
 
 - 🔭 I’m currently working on **a transportation dispatching software for a startup.**
 

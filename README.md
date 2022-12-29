@@ -2,7 +2,7 @@
 
 <h3 align="center">I like AI and Music</h3>
 <p align="center">
-    <img align="center" alt="homepage" width="" src="Icons/homepage.gif">
+    <img align="center" alt="homepage" width="50%" src="Icons/homepage.gif">
 </p>
 
 - 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
@@ -20,7 +20,7 @@
 - ⚡ Fun facts: **I play ukulele, dj, volunteer, and always looking to collobarate on a project...**
 
 <p align="center">
-<img align="center" alt="textbanner" width="100%" src="Icons/coolinternet.gif">
+<img align="center" alt="textbanner" width="50%" src="Icons/coolinternet.gif">
 </p>
 
 ## Connect with me  

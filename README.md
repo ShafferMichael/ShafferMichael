@@ -1,4 +1,3 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif))
 
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 <h3 align="center">A passionate person</h3>
@@ -16,7 +15,7 @@
 
 - 📄 Know about my experiences [resume.link](resume.link)
 
-- ⚡ Fun fact **I play ukulele, dj at clubs and parties, and have a startup.**
+- ⚡ Fun facts: **I play ukulele, dj, at clubs and parties, and have a startup.**
 
 
 

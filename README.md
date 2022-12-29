@@ -1,11 +1,7 @@
-
-<h1 align="center" style="font-family: 'Comic Sans MS', sans-serif; color: neongreen;">Hi 👋, I'm Michael Shaffer</h1>
-
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: hotpink;">A passionate person</h3>
-
-<img align="center" alt="Coding" width="400" src="Icons/homepage.gif">
-
-<img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
+<!-- MarkdownTOC -->
+<!-- to=python
+import markdown_css_styles
+-->
 
 <style>
   body {
@@ -13,7 +9,33 @@
     background-size: cover;
     background-repeat: repeat;
   }
+
+  h1 {
+    font-family: 'Comic Sans MS', sans-serif;
+    color: neongreen;
+  }
+
+  h3 {
+    font-family: 'Arial', sans-serif;
+    color: hotpink;
+  }
 </style>
+
+# Hi 👋, I'm Michael Shaffer
+
+## A passionate person
+
+![Coding](Icons/homepage.gif)
+
+![textbanner](Icons/coolinternet.gif)
+
+- 🔭 I’m currently working on **a transportation dispatching software for a startup.**
+
+- 🌱 I’m currently learning **React Library and native**
+
+- 👯 I’m looking to collaborate on **open source software project
+
+
 
 
 

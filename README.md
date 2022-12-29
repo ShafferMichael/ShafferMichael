@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 
 <h3 align="center">Artificial Intelligence, Fintech, Code</h3>
-
-<img align="center" alt="homepage" width="" src="Icons/homepage.gif">
-
+<p align="center">
+    <img align="center" alt="homepage" width="" src="Icons/homepage.gif">
+</p>
 - 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
 
 - 🌱 I’m currently learning **Python, TensorFlow, and PyTorch, to create the server-side logic and deploy through to a web-based API.**

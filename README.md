@@ -51,4 +51,4 @@
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  
 
-<img align="right" alt="analmyzer" src="Icons/analyzer.gif" align="top">
+<img align="right" alt="analmyzer" src="Icons/analyzer.gif">

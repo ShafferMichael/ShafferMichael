@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 
 <h3 align="center">A passionate person</h3>
@@ -7,8 +6,7 @@
 
 <img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
 
-<img align="right" alt="spiderman" style="transform: rotate(90deg) scaleY(-1)" src="Icons/spiderman.gif">
-
+<img align="right" alt="spiderman" style="transform: rotate(-90deg) scaleY(-1)" src="Icons/spiderman.gif">
 
 - 🔭 I’m currently working on **a transportation dispatching software for a startup.**
 

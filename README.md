@@ -5,7 +5,7 @@
 
 <img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img align="right" alt="Coding" width="400" src="Icons/homepage.gif">
 
 - 🔭 I’m currently working on **a transportation dispatching software for a startup.**
 

@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 
-<h3 align="center">A passionate person</h3>
+<h3 align="center">Student</h3>
 
-<img align="center" alt="homepage" width="400" src="Icons/homepage.gif">
+<img align="center" alt="homepage" width="" src="Icons/homepage.gif">
 
-<img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
+<img align="center" alt="textbanner" width="" src="Icons/coolinternet.gif">
 
 <img align="right" alt="spiderman" style="transform: rotate(-90deg) scaleY(-1)" src="Icons/spiderman.gif">
 
-- 🔭 I’m currently working on **a transportation dispatching software for a startup.**
+- 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
 
-- 🌱 I’m currently learning **React Library and native**
+- 🌱 I’m currently learning **Python, TensorFlow, and PyTorch, to create the server-side logic and deploy through to a web-based API.**
 
 - 👯 I’m looking to collaborate on **open source software project.**
 

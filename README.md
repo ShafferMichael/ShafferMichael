@@ -4,6 +4,7 @@
 <p align="center">
     <img align="center" alt="homepage" width="" src="Icons/homepage.gif">
 </p>
+
 - 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
 
 - 🌱 I’m currently learning **Python, TensorFlow, and PyTorch, to create the server-side logic and deploy through to a web-based API.**
@@ -18,9 +19,12 @@
 
 - ⚡ Fun facts: **I play ukulele, dj, volunteer, and always looking to collobarate on a project...**
 
-<img align="center" alt="textbanner" width="" src="Icons/coolinternet.gif">
+<p align="center">
+<img align="center" alt="textbanner" width="100%" src="Icons/coolinternet.gif">
+</p>
 
 ## Connect with me  
+
 <div align="center">
 <a href="https://github.com/ShafferMichael" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -42,9 +46,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaffermichael&show_icons=true&locale=en" alt="shaffermichael" /></p>
-
-
-
 
 
 

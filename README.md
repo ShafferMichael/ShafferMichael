@@ -43,9 +43,10 @@
 </a>  
 </div>  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Some Tools & Stats:</h3>
 
 - others: **Java, C++, Bash, Linux, Windows, Mac, and more.**
+<img src="https://github-readme-stats.vercel.app/api?username=shaffermichael&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  

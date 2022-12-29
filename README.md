@@ -17,8 +17,6 @@
 
 - ⚡ Fun facts: **I play ukulele, dj, at clubs and parties, and have a startup.**
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

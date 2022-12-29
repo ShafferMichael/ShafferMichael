@@ -3,10 +3,11 @@
 
 <h3 align="center">A passionate person</h3>
 
-<img align="center" alt="Coding" width="400" src="Icons/homepage.gif">
+<img align="center" alt="homepage" width="400" src="Icons/homepage.gif">
 
 <img align="center" alt="textbanner" width="400" src="Icons/coolinternet.gif">
 
+<img align="right" alt="spiderman" src="Icons/spiderman.gif">
 
 - 🔭 I’m currently working on **a transportation dispatching software for a startup.**
 

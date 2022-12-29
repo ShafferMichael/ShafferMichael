@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaffermichael&show_icons=true&locale=en" alt="shaffermichael" /></p>
 
-<img align="right" alt="spiderman" style="transform: rotate(-90deg) scaleY(-1)" src="Icons/spiderman.gif">
+<img align="right" alt="analmyzer" src="Icons/analyzer.gif">

@@ -2,16 +2,16 @@
 
 <h3 align="center">I like AI and Music</h3>
 <p align="center">
-    <img align="center" alt="homepage" width="15%" src="Icons/homepage.gif">
+    <img align="center" alt="homepage" width="20%" src="Icons/homepage.gif">
 </p>
 
 - 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
 
 - 🌱 I’m currently learning **Python, TensorFlow, and PyTorch, to create the server-side logic and deploy through to a web-based API.**
 
-- 👯 I’m looking to collaborate on **open source software project.**
+- 👯 I’m currently reading on **Atomic Habits.**
 
-- 🤝 I’m looking for help with **finding internship opportunities.**
+- 🤝 I’m looking for help with **finding internship opportunities this summer.**
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 

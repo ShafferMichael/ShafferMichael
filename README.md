@@ -20,7 +20,7 @@
 - ⚡ Fun facts: **I play ukulele, dj, volunteer, and always looking to collobarate on a project...**
 
 <p align="center">
-<img align="center" alt="theinternetiscool" width="25%" src="Icons/coolinternet.gif">
+<img align="center" alt="theinternetiscool" width="35%" src="Icons/coolinternet.gif">
 </p>
 
 ## Connect with me  

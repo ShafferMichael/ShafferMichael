@@ -49,6 +49,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shaffermichael&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  
 
 <img align="right" alt="analmyzer" src="Icons/analyzer.gif">

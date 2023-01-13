@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, TensorFlow, and PyTorch, to create the server-side logic and deploy through to a web-based API.**
 
-- 👯 I’m currently reading on **Atomic Habits.**
+- 👯 I’m currently reading **Atomic Habits.**
 
 - 🤝 I’m looking for help with **finding internship opportunities this summer.**
 

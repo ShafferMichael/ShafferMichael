@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
 
-- 🌱 I’m currently learning **Python, TensorFlow, and PyTorch, to create the server-side logic and deploy through to a web-based API.**
+- 🌱 I’m currently learning **Python, TensorFlow, and OpenAI, to create the server-side logic and deploy through to a web-based API.**
 
 - 👯 I’m currently reading **Atomic Habits.**
 
@@ -43,7 +43,7 @@
 </a>  
 </div>  
 
-<h3 align="left">Some Tools & Stats:</h3>
+<h3 align="left">Some Cool Stats:</h3>
 
 - others: **Java, C++, Bash, Linux, Windows, Mac, and more.**
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaffermichael&show_files=true&count_private=true&hide_border=true" align="left" />  

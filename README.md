@@ -2,7 +2,7 @@
 
 <h3 align="center">I like AI and Music</h3>
 <p align="center">
-    <img align="center" alt="homepage" width="20%" src="Icons/homepage.gif">
+    <img align="center" alt="homepage" width="20%" src="files/homepage.gif">
 </p>
 
 - 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 
-- 💯 Know about my experiences [resume.link](resume.link)
+- 💯 Know about my experiences: **[resume](files/resume.pdf)**
 
 - ⚡ Fun facts: **I play ukulele, dj, volunteer, and always looking to collobarate on a project...**
 
 <p align="center">
-<img align="center" alt="theinternetiscool" width="35%" src="Icons/coolinternet.gif">
+<img align="center" alt="theinternetiscool" width="35%" src="files/coolinternet.gif">
 </p>
 
 ## Connect with me  
@@ -46,9 +46,9 @@
 <h3 align="left">Some Tools & Stats:</h3>
 
 - others: **Java, C++, Bash, Linux, Windows, Mac, and more.**
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaffermichael&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaffermichael&show_files=true&count_private=true&hide_border=true" align="left" />  
 
 
 <div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  
 
-<img align="right" alt="analmyzer" src="Icons/analyzer.gif">
+<img align="right" alt="analmyzer" src="files/analyzer.gif">

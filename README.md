@@ -5,19 +5,19 @@
     <img align="center" alt="homepage" width="20%" src="files/homepage.gif">
 </p>
 
-- 🧑‍💻 I’m currently working on **A chatbot that uses openAI.**
+- 🧑‍💻 I’m currently working on **IoT project with AI tools**
 
 - 🌱 I’m currently learning **Python, TensorFlow, and OpenAI, to create the server-side logic and deploy through to a web-based API.**
 
 - 👯 I’m currently reading **Atomic Habits.**
 
-- 🤝 I’m looking for help with **finding internship opportunities this summer.**
+- 🤝 I’m looking for help with **my startup aCI**
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 
-- 💯 Know about my experiences: **[resume](files/resume.pdf)**
+- 💯 Know about my experiences: **[resume](files/resume.pdf)** 
 
-- ⚡ Fun facts: **I play ukulele, dj, volunteer, and always looking to collobarate on a project...**
+- ⚡ Fun facts: **I play ukulele, advid reader/writer, volunteer, and always looking to collobarate on a project...**
 
 <p align="center">
 <img align="center" alt="theinternetiscool" width="35%" src="files/coolinternet.gif">

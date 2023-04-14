@@ -17,7 +17,7 @@
 
 - 💯 Know about my experiences: **[resume](files/resume.pdf)** 
 
-- 🤔 Personality Type: INTJ
+- 🤔 Personality Type: INTJ or ENTJ (Depending on mood lol)
 
 - ⚡ Fun facts: **I play ukulele, DJ, advid reader/writer, volunteer, and always looking to collobarate on a project...**
 

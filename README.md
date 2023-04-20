@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 
-<h3 align="center">I like AI and Music</h3>
+### <p align="center">I like IA (<em>Intelligent Augmentation</em>) and Music</p>
+
 <p align="center">
     <img align="center" alt="homepage" width="20%" src="files/homepage.gif">
 </p>

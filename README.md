@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 
-- 💯 Know about my experiences: **[resume](files/resume.pdf)** 
+- 💯 Know about my experiences: **[resume](files/resume.pdf)**
 
 - 🤔 Personality Type: INTJ or ENTJ (Depending on mood lol)
 
@@ -25,7 +25,7 @@
 <img align="center" alt="theinternetiscool" width="35%" src="files/coolinternet.gif">
 </p>
 
-## Connect with me  
+## Connect with me
 
 <div align="center">
 <a href="https://github.com/ShafferMichael" target="_blank">
@@ -43,14 +43,32 @@
 <a href="https://stackoverflow.com/users/20236815/michael-shaffer?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
 
-<h3 align="left">Some Cool Stats:</h3>
+## Languages, Frameworks, etc...
 
-- others: **Java, C++, Bash, Linux, Windows, Mac, and more.**
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaffermichael&show_files=true&count_private=true&hide_border=true" align="left" />  
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-bottom: 5px;"/>
+</div>
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaffermichael&show_files=true&count_private=true&hide_border=true" align="left" />
 
-<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaffermichael&hide_border=true&layout=compact" align="center" /></div>
 
 <img align="right" alt="analmyzer" src="files/analyzer.gif">

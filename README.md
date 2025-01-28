@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 
-- 💯 Learn more about my experiences: **[resume](files/resume.pdf)**
+- 💯 Learn more about my experiences: **[resume](files/Resume.pdf)**
 
 - 🤔 Personality Type: INTJ or ENTJ (Depending on mood lol)
 

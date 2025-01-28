@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Michael Shaffer</h1>
 
-### <p align="center">I'm into IA (<em>Intelligent Augmentation</em>) and Music</p>
+### <p align="center">I'm into IA (<em>Intelligent Augmentation</em>) </p>
 
 <p align="center">
     <img align="center" alt="homepage" width="20%" src="files/homepage.gif">
 </p>
 
-- 🧑‍💻 I’m currently working on **IoT project with AI tools**
+- 🧑‍💻 I’m currently working on **a senior project building real estate forecast using my university's super computer**
 
-- 🌱 I’m currently learning **Python, TensorFlow, and OpenAI, to create the server-side logic and deploy through to a web-based API.**
+- 🌱 I’m currently learning **the logic behind building machine learning models for my senior project**
 
-- 👯 I’m currently reading **Artificial Intelligence: A Modern Approach by Russell Norvig.**
+- 👯 I’m currently reading ***The Art of Statistics: How to Learn from Data by David Spiegelhalter.***
 
-- 🤝 I’m looking for help with **my startup Andromeda**
+- 🤝 I’m looking for work opportunities so feel free to reach out if you have anything I could do for you. 
 
 - 📫 How to reach me **michaelshaffer45@gmail.com**
 
-- 💯 Know about my experiences: **[resume](files/resume.pdf)**
+- 💯 Learn more about my experiences: **[resume](files/resume.pdf)**
 
 - 🤔 Personality Type: INTJ or ENTJ (Depending on mood lol)
 
-- ⚡ Fun facts: **I play ukulele, DJ, advid reader/writer, volunteer, and always looking to collobarate on a project...**
+- ⚡ Fun facts: **I play a lot of chess, read a ton- like a lot, I have a khan academy score of 2 million, and wrestled for 8 years **
 
 <p align="center">
 <img align="center" alt="theinternetiscool" width="35%" src="files/coolinternet.gif">

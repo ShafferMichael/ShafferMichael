@@ -20,7 +20,7 @@
 
 - 🤔 Personality Type: INTJ or ENTJ (Depending on mood lol)
 
-- ⚡ Fun facts: **I play a lot of chess, read a ton- like a lot, I have a khan academy score of 2 million, and wrestled for 8 years **
+- ⚡ Fun facts: **I play a lot of chess, read a ton- like a lot, I have a khan academy score of 2 million, and wrestled for 8 years**
 
 <p align="center">
 <img align="center" alt="theinternetiscool" width="35%" src="files/coolinternet.gif">

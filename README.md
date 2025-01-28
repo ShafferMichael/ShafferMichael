@@ -59,7 +59,6 @@
 <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-bottom: 5px;" /></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" style="margin-bottom: 5px;" /></a>
 <a href="https://angular.io/docs" target="_blank"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-bottom: 5px;"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" style="margin-bottom: 5px;"/></a>
 <a href="https://jupyter.org/documentation" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 5px;"/></a>
 <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode" style="margin-bottom: 5px;"/></a>
 <a href="https://www.tensorflow.org/overview" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin-bottom: 5px;"/></a>
